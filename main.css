@@ -1064,13 +1064,19 @@ footer{
         font-size: 20px;
     }
     .grid2 img{
-        height: 400px;
-        width: 350px;
+        height: 300px;
+        width: 300px;
         margin-left: 0px;
     }
     .grid2 h2{
         font-size: 25px;
         margin-left: 40px;
+    }
+    .contact-content{
+        margin-right: 0px;
+    }
+    .sub{
+        margin-right: 0px;
     }
 }
    
